@@ -9,7 +9,7 @@ public class Pens {
         int PenMod =0;
         PenMod = TotalPens % Student;
         find = TotalPens / Student;
-        System.out.println("The Pen Per Student is" + find + "and the remaining pen not distributed is" + PenMod);
+        System.out.println("The Pen Per Student is :" + find + "and the remaining pen not distributed is :" + PenMod);
 
 
     }
