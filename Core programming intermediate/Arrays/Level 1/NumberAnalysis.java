@@ -1,7 +1,4 @@
-// Program Name: NumberAnalysis
-// Description: This program checks numbers as positive/negative/zero,
-// even/odd (if positive), and compares first and last elements
-// Author: Neelakshi
+
 
 import java.util.Scanner;
 
@@ -59,7 +56,7 @@ class NumberAnalysis {
             }
         }
 
-        // Comparing first and last element
+       
         int firstElement = numbers[0];
         int lastElement = numbers[numbers.length - 1];
 
