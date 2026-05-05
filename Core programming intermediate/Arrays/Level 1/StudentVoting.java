@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-class StudentVotingEligibility {
+class StudentVoting {
 
     public static void main(String[] args) {
 
